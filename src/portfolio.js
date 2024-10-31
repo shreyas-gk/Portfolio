@@ -166,9 +166,7 @@ const workExperiences = {
       companylogo: require("./assets/images/eylogo.jpg"),
       date: "January 2022 – May 2023",
       desc: "Senior Analyst",
-      desc: [
-        "As a Senior Analyst, deployed automations to the cloud, streamlined data extraction and email handling with Django across diverse sources, implemented frontend automation for SAP, Salesforce, and Power BI dashboards, optimized SQL queries with caching, and developed REST APIs for efficient microservices communication."
-      ]
+      desc: ["As a Senior Analyst, deployed automations to the cloud, streamlined data extraction and email handling with Django across diverse sources, implemented frontend automation for SAP, Salesforce, and Power BI dashboards, optimized SQL queries with caching, and developed REST APIs for efficient microservices communication."]
     },
     {
       role: "Client Serving Contractor - EY",
