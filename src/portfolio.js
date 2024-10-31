@@ -26,7 +26,7 @@ const greeting = {
     "A skilled Backend Engineer with over a year of experience in cloud systems, automation, and backend development using Python, Django, and FastAPI. Proficient in designing scalable infrastructure with AWS, Azure, Kubernetes, and Terraform. Strong expertise in building efficient data pipelines and optimizing workflows to enhance system performance and reliability."
   ),
   resumeLink:
-    "https://docs.google.com/document/d/1wF2jXg0eipPbS4ASuOim1clYckERB7sZ/edit?usp=sharing&ouid=114651271030001401367&rtpof=true&sd=true", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1RB-nBtj8E2q8G7J9qnP-px-0Ue4p4zon/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
