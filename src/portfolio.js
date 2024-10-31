@@ -26,7 +26,7 @@ const greeting = {
     "A skilled Backend Engineer with over a year of experience in cloud systems, automation, and backend development using Python, Django, and FastAPI. Proficient in designing scalable infrastructure with AWS, Azure, Kubernetes, and Terraform. Strong expertise in building efficient data pipelines and optimizing workflows to enhance system performance and reliability."
   ),
   resumeLink:
-    "https://docs.google.com/document/d/1wF2jXg0eipPbS4ASuOim1clYckERB7sZ/edit?usp=drive_link&ouid=114651271030001401367&rtpof=true&sd=true", // Set to empty to hide the button
+    "https://docs.google.com/document/d/1wF2jXg0eipPbS4ASuOim1clYckERB7sZ/edit?usp=sharing&ouid=114651271030001401367&rtpof=true&sd=true", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -145,11 +145,11 @@ const techStack = {
     },
     {
       Stack: "Frontend/Design",
-      progressPercentage: "60%"
+      progressPercentage: "70%"
     },
     {
       Stack: "DevOps/Deployment",
-      progressPercentage: "70%"
+      progressPercentage: "75%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -161,12 +161,12 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
+      role: "Senior Analyst - Backend Developer",
       company: "Ernst & Young LLP",
       companylogo: require("./assets/images/eylogo.jpg"),
       date: "January 2022 – May 2023",
       desc: "Senior Analyst",
-      descBullets: [
+      desc: [
         "As a Senior Analyst, deployed automations to the cloud, streamlined data extraction and email handling with Django across diverse sources, implemented frontend automation for SAP, Salesforce, and Power BI dashboards, optimized SQL queries with caching, and developed REST APIs for efficient microservices communication."
       ]
     },
@@ -185,7 +185,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "false", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
